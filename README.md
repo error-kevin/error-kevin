@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a very secret project<br>👯 I’m looking to collaborate on Ai development<br>🤝 I’m looking for help with Chat API<br>🌱 I’m currently learning Ai-ML<br>💬 Ask me about Python<br>⚡ Fun fact "Be Productive Not Busy. "
+🔭 I’m currently working on a Very Secret Project<br>👯 I’m looking to collaborate on Ai Development<br>🌱 I’m currently learning Ai-ML<br>💬 Ask me about Python<br>⚡ Fun fact "Be Productive Not Busy. "
 
 
 ## 🌐 Socials:
